@@ -23,6 +23,8 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Node-NPS&uri=https%3A%2F%2Fraw.githubusercontent.com%2FLuizPedroSM%2Fnode-nps%2Fmain%2FInsomnia_NPS.json)
+
 ## 💻 Projeto
 
 Aplicação feita em [Node.js] no [NLW]4.
@@ -49,7 +51,6 @@ O calculo: NPS = (Promotores - Detratores) / Total de respostas \* 100
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org)
-
 
 [node.js]: https://nodejs.org/
 [nlw]: https://nextlevelweek.com/
